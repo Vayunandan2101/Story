@@ -1,0 +1,1 @@
+It was the best of the time. When I first started using Git
